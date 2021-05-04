@@ -1,8 +1,8 @@
 # big-data-university-project
 
 I have done two projects related to big data.
-1. House price prediction model, using kaggle data:
-2. Tesla stock price prediction model, using kaggle data:
+1. House price prediction model, using kaggle data: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/
+2. Tesla stock price prediction model, using kaggle data: https://www.kaggle.com/rpaguirre/tesla-stock-price
 
 ### Developing Tools
 These projects are created with Python, Scikit-learn, and Tensorflow.
