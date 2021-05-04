@@ -5,7 +5,7 @@ I have done two projects related to big data.
 2. Tesla stock price prediction model, using kaggle data: https://www.kaggle.com/rpaguirre/tesla-stock-price
 
 ### Developing Tools
-These projects are created with Python, Scikit-learn, NumPy, Panda, and Tensorflow.
+These projects are created with Python, Scikit-learn, NumPy, Pandas, and Tensorflow.
 
 ### Technology
 In the house price prediction model, I have used:
